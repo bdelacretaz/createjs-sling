@@ -1,0 +1,6 @@
+{
+    "jcr:primaryType" : "nt:unstructured",
+    "sling:resourceType": "createjs",
+    "sling:URI_PGh0dHA6Ly91c2VmdWxpbmMuY29tL25zL2RvYXAjbmFtZT4=" : "create.js in Sling - prototype",
+    "sling:URI_PGh0dHA6Ly91c2VmdWxpbmMuY29tL25zL2RvYXAjZGVzY3JpcHRpb24+" : "<p>This can be edited using create.js</p><h2>Storage</h2><p>Content is stored in Sling, using weird sling:URI_&lt;base64-encoded URI&gt; JCR property names until I figure out a better way.</p><ul><li>First <em>item</em></li><li>Second</li><li>Third</li></ul></ul>"
+}
